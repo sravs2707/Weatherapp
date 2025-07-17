@@ -1,4 +1,4 @@
-﻿# Weatherapp
+﻿# vc code shortcuts
 Shift + Alt + F -will run your configured formatter(such as prettier, for a JavaScript project) on the currently opened file.
 Ctrl + Shift + F (Windows), or Cmd + Shift + F (Mac), to search the text contents of all the files in your workspace
 Then Ctrl + Shift + H (Windows), or Cmd + Shift + H (Mac), if you want to run a find-and-replace.
